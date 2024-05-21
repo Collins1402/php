@@ -23,7 +23,7 @@ while($min < 10){
 <h4> for loop</h4>
 <?php
     // for loop
-    for($r = 3; r < 12; $r++){
+    for($r = 3; $r < 12; $r++){
         print $r . "<br>";
     }
 
