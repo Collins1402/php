@@ -23,7 +23,7 @@ $user_emails = array(
 ?>
 
 <pre>
-    <? print_r($user_emails); ?>
+    <?php print_r($user_emails); ?>
 </pre>
 
 <h1>Multidimentional Arrays</h1>
@@ -63,6 +63,6 @@ $user_details = [
 ?>
 
 <pre>
-    <? print_r($user_details); ?>
+    <?php print_r($user_details); ?>
 </pre>
 
