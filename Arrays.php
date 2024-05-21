@@ -2,7 +2,6 @@
 <?php
 
 $color = array("black", "green", "white", "red");
-
 print ($color);
 
 ?>
